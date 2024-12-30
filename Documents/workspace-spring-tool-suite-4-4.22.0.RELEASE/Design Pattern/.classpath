@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="StrategyDesignPattern"/>
 	<classpathentry kind="src" path="ObserverPattern"/>
+	<classpathentry kind="src" path="Decorator Design Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
